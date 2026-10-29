@@ -1,0 +1,37 @@
+name: optimalorganizer
+description: "OptimalOrganizer - ADHD-Friendly Offline Organizer (Dart/Flutter port)"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  sqflite_common_ffi: ^2.3.0+4
+  path: ^1.8.3
+  path_provider: ^2.1.1
+  sqlite3: ^2.1.0
+  provider: ^6.1.1
+  intl: ^0.18.1
+  uuid: ^4.2.1
+  shared_preferences: ^2.2.2
+  file_picker: ^6.1.1
+  url_launcher: ^6.2.1
+  flutter_markdown: ^0.6.18
+  table_calendar: ^3.0.9
+  fl_chart: ^0.65.0
+  yaml: ^3.1.2
+  csv: ^5.1.1
+  xml: ^6.4.2
+  archive: ^3.4.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

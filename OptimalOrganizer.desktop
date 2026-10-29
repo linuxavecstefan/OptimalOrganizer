@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OptimalOrganizer
+Comment=ADHD-friendly offline organizer
+Exec=/home/stef/Desktop/OptimalOrganizer/OptimalOrganizer
+Path=/home/stef/Desktop/OptimalOrganizer
+Icon=applications-office
+Terminal=false
+StartupNotify=true
+Categories=Office;Calendar;ProjectManagement;
+StartupWMClass=optimalorganizer
